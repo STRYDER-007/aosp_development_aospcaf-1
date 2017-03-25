@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- SONY 8960 Common Projects -->
+  <project name="LineageOS/android_device_sony_common" path="device/sony/common" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_sony_DASH" path="hardware/sony/DASH" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="cm-14.1" />
+
+  <!-- SONY 8960 Vendor Projects -->
+  <project name="AdrianDC/proprietary_vendor_sony" path="vendor/sony" remote="github" revision="cm-14.1" />
+
+  <!-- SONY 8960 Huashan Projects -->
+  <project name="AdrianDC/android_device_sony_huashan" path="device/sony/huashan" remote="github" revision="cm-14.1" />
+  <project name="AdrianDC/android_kernel_sony_msm8960t" path="kernel/sony/msm8960t" remote="github" revision="cm-14.1" />
+
+  <!-- SONY 8960 Blue Projects -->
+  <project name="AdrianDC/android_device_sony_blue-common" path="device/sony/blue-common" remote="github" revision="cm-14.1" />
+  <project name="AdrianDC/android_device_sony_hayabusa" path="device/sony/hayabusa" remote="github" revision="cm-14.1" />
+  <project name="AdrianDC/android_device_sony_mint" path="device/sony/mint" remote="github" revision="cm-14.1" />
+  <project name="AdrianDC/android_device_sony_tsubasa" path="device/sony/tsubasa" remote="github" revision="cm-14.1" />
+  <project name="AdrianDC/android_kernel_sony_msm8x60" path="kernel/sony/msm8x60" remote="github" revision="cm-14.1" />
+
+</manifest>
